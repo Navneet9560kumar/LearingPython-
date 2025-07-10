@@ -1,0 +1,2 @@
+# .venv\Scripts\Activate.ps1
+ # ab jo,ham hai vo virchual inverment mai hai ok (ye ham ku karte hai vase ) jo jo hamrere requrement mai hia unko ek bar downlode karne ke leye ham  iska use karte hai ok to ek bar ham kar sakte hai install ham log ek bar mai hee kar sakte hai   ham install karke puri tarha virctual mai save rakh sakte hia or joki important hai or safe hai ok
