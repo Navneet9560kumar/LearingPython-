@@ -1,0 +1,1 @@
+we use a generagter of  save a memory abd you dont want the result immedietely & lazy evaluations
