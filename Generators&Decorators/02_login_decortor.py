@@ -1,4 +1,5 @@
-import functools import wraps
+import functools
+from functools import wraps
 
 def log_activity(func):
       @wraps(func)
