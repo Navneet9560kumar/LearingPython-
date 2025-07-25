@@ -10,4 +10,9 @@ print(cup.descrile())
 print(Chaicup.descrile())
 
 cup_two = Chaicup()
-print(cup_two.descrile())
+print(cup_two.descrile())  
+print(Chaicup.descrile(cup))
+
+cup_two = Chaicup()
+cup_two.size =100
+print(Chaicup.descrile(cup_two))
