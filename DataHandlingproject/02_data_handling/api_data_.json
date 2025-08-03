@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "name": "Navneet Kumar",
+    "email": "navneet.kumar@example.com",
+    "location": "Delhi",
+    "is_active": true
+  },
+  {
+    "id": 102,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "location": "Mumbai",
+    "is_active": false
+  },
+  {
+    "id": 103,
+    "name": "Diya Mehta",
+    "email": "diya.mehta@example.com",
+    "location": "Bangalore",
+    "is_active": true
+  },
+  {
+    "id": 104,
+    "name": "Rohan Patel",
+    "email": "rohan.patel@example.com",
+    "location": "Ahmedabad",
+    "is_active": true
+  },
+  {
+    "id": 105,
+    "name": "Ishita Verma",
+    "email": "ishita.verma@example.com",
+    "location": "Kolkata",
+    "is_active": false
+  },
+  {
+    "id": 106,
+    "name": "Kabir Joshi",
+    "email": "kabir.joshi@example.com",
+    "location": "Chennai",
+    "is_active": true
+  },
+  {
+    "id": 107,
+    "name": "Tanvi Singh",
+    "email": "tanvi.singh@example.com",
+    "location": "Pune",
+    "is_active": true
+  },
+  {
+    "id": 108,
+    "name": "Zoya Khan",
+    "email": "zoya.khan@example.com",
+    "location": "Hyderabad",
+    "is_active": false
+  },
+  {
+    "id": 109,
+    "name": "Yash Rathore",
+    "email": "yash.rathore@example.com",
+    "location": "Jaipur",
+    "is_active": true
+  },
+  {
+    "id": 110,
+    "name": "Meher Chaudhary",
+    "email": "meher.chaudhary@example.com",
+    "location": "Noida",
+    "is_active": true
+  }
+]
